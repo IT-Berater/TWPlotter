@@ -11,6 +11,12 @@ import javax.imageio.ImageIO;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
+/**
+ * Bild in Datei schreiben.
+ * 
+ * @author Thomas Wenzlaff
+ *
+ */
 public class Writer {
 
 	private static final Logger LOG = LogManager.getLogger(Writer.class.getName());

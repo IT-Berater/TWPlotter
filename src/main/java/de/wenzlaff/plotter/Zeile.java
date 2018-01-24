@@ -10,6 +10,12 @@ import java.util.List;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
+/**
+ * Eine Zeile der Daten.
+ * 
+ * @author Thomas Wenzlaff
+ *
+ */
 public class Zeile {
 
 	private static final Logger LOG = LogManager.getLogger(Zeile.class.getName());
