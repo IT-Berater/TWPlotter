@@ -4,10 +4,20 @@ import java.awt.Color;
 import java.util.Collections;
 import java.util.List;
 
+/**
+ * Util Klasse.
+ * 
+ * @author Thomas Wenzlaff
+ *
+ */
 public class Util {
 
 	private static final int MAX_RGB = 255;
 	private static final float MAX_VALUE = 74;
+
+	private Util() {
+		// nur Util
+	}
 
 	public static Double getMinDb(List<Double> dbs) {
 		return -Collections.max(dbs);
