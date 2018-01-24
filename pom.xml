@@ -4,7 +4,24 @@
 	<groupId>de.wenzlaff.plotter</groupId>
 	<artifactId>de.wenzlaff.plotter</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>jar</packaging>
 
+	<name>TPPlotter</name>
+	<url>http://www.wenzlaff.info</url>
+	<description>TWPlotter zum generieren von Wasserfall Diagrammen</description>
+	
+	<inceptionYear>2018</inceptionYear>
+
+	<distributionManagement>
+		<snapshotRepository>
+			<id>ossrh</id>
+			<url>https://oss.sonatype.org/content/repositories/snapshots</url>
+		</snapshotRepository>
+		<repository>
+			<id>ossrh</id>
+			<url>https://oss.sonatype.org/service/local/staging/deploy/maven2/</url>
+		</repository>
+	</distributionManagement>
 	<developers>
 		<developer>
 			<id>thomas.wenzlaff</id>
@@ -42,6 +59,12 @@
 		<junit.vintage.version>${junit.version}.0</junit.vintage.version>
 		<junit.platform.version>1.0.0</junit.platform.version>
 	</properties>
+
+	<scm>
+		<connection>scm:git:git@github.com:IT-Berater/TWPlotter.git</connection>
+		<developerConnection>scm:git:git@github.com:IT-Berater/TWPlotter.git</developerConnection>
+		<url>https://github.com/IT-Berater/TWPlotter</url>
+	</scm>
 
 	<build>
 		<plugins>
