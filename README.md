@@ -11,15 +11,17 @@ Waterfall Pic Plotter
 
 Weitere Details siehe auf der [TWPloter Homepage](http://blog.wenzlaff.de).
 
-![]( TWPlotter/bilder/bild-2018-01-25-21-03-10.png )
+Hier ein paar Wasserfall Beispiele, die mit den CSV Dateien aus dem "bilder" Verzeichnis erstellt wurden:
 
-![]( TWPlotter/bilder/bild-2018-01-25-21-04-16.png )
+![](/bilder/bild-2018-01-25-21-03-10.png)
 
-![]( TWPlotter/bilder/bild-2018-01-25-21-04-46.png )
+![]( /bilder/bild-2018-01-25-21-04-16.png )
 
-![]( TWPlotter/bilder/bild-2018-01-25-21-05-18.png )
+![]( /bilder/bild-2018-01-25-21-04-46.png )
 
-![]( TWPlotter/bilder/bild-2018-01-25-21-05-57.png )
+![]( /bilder/bild-2018-01-25-21-05-18.png )
 
-![]( TWPlotter/bilder/bild-2018-01-25-21-06-26.png )
+![]( /bilder/bild-2018-01-25-21-05-57.png )
+
+![]( /bilder/bild-2018-01-25-21-06-26.png )
 
