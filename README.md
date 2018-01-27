@@ -9,7 +9,7 @@
 Waterfall Pic Plotter
 
 
-Weitere Details siehe auf der [TWPloter Homepage](http://blog.wenzlaff.de).
+Weitere Details siehe auf der [TWPloter Homepage](http://blog.wenzlaff.de/?p=9596).
 
 Hier ein paar Wasserfall Beispiele, die mit den CSV Dateien aus dem "bilder" Verzeichnis erstellt wurden:
 
